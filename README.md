@@ -10,5 +10,4 @@ When the game ends, blocks highlight and it displays one of the following three 
 * победили нолики
 * ничья  
 
-As soon as a winner appears, you can't make a move.  
-Included button to start new game.
+As soon as a winner appears, you can't make a move. Included button to start new game.
