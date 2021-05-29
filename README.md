@@ -2,7 +2,7 @@
 
 A basic Tic Tac Toe game built using HTML/JavaScript/CSS. 
 
-To make a move, the player will use the mouse single click to mark a space (block). The first to go zeroes (player "0").   
+To make a move, the player will use the mouse single click to mark a space (block).  The first to go zeroes (player "0").   
 As soon as the move is done, the game proceeds to the next player’s (player "X") chance.   
 At each move, The game will show whose move ("Ход нолика" or "Ход крестика") it is.   
 
